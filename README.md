@@ -91,6 +91,7 @@ I design and build **end-to-end intelligent systems** — from training deep lea
 ## 📫 Let's Connect
 
 * GitHub: https://github.com/lakshay1184
+* linkedin: https://www.linkedin.com/in/lakshay-kapoor-876921355/
 
 ---
 
