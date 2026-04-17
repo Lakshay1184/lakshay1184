@@ -10,7 +10,7 @@ I design and build **end-to-end intelligent systems** — from training deep lea
 
 * 🎓 B.E. Computer Science (2023–2027)
 * 🤖 Focus: AI Systems, RAG Pipelines, Video Intelligence
-* ⚙️ Strong in: FastAPI, PyTorch, Backend Engineering
+* ⚙️ Strong in: FastAPI, Tensorflow, Backend Engineering
 * 🧠 Goal: Build **production-ready AI products**, not just prototypes
 
 ---
