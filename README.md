@@ -47,6 +47,17 @@ I design and build **end-to-end intelligent systems** — from training deep lea
 
 ## 🔥 Other Projects
 
+### 🎙️ AI Video Assistant — Self-Hosted Meeting Intelligence Platform
+
+> A free, self-hosted alternative to paid meeting intelligence tools like Otter and Fireflies that converts video/audio into structured insights and searchable RAG context.
+
+* **Tech Stack:** Python • LangChain • ChromaDB • Mistral AI • Whisper • Sarvam STT • Streamlit
+* **Intelligent Ingestion & Processing:** Accepts YouTube URLs or local media files, automates high-speed WAV audio conversion/chunking using `yt-dlp` and `FFmpeg`, and manages custom runtime data structures.
+* **Dual-Engine Transcription:** Employs OpenAI Whisper for local English transcription alongside the Sarvam STT API for accurate Hinglish translation-based processing.
+* **Core RAG & Analytics Pipeline:** Orchestrates Mistral AI via LangChain to extract titles, executive summaries, action items, and open questions, while persisting vector embeddings into a local ChromaDB instance to enable interactive transcript Q&A.
+
+---
+
 ### 🎬 Auto Clip — Automated Video Editing Platform
 
 * **Tech Stack:** Python • Hugging Face • OpenAI Whisper • FFmpeg • FastAPI
@@ -59,23 +70,6 @@ I design and build **end-to-end intelligent systems** — from training deep lea
 
 
 * Leveraged FFmpeg for high-speed video rendering and automated aspect-ratio conversion.
-
-
-
----
-
-### 🎯 RAG-Based Movie Recommendation System
-
-* **Tech Stack:** Python • Vector DB • LLM API • FastAPI
-
-
-* Built a high-dimensional semantic search engine utilizing a Vector DB to store and query dense movie data embeddings.
-
-
-* Developed a complete RAG pipeline that retrieves relevant context to dynamically inject into AI agent prompts via API.
-
-
-* Implemented clean data-processing scripts for document chunking and optimized ingestion to ensure highly context-aware responses.
 
 
 
@@ -103,11 +97,11 @@ I design and build **end-to-end intelligent systems** — from training deep lea
 | Category | Technologies |
 | --- | --- |
 | **Languages** | `Python`, `C++`, `Java`<br> |
-| **AI/ML & Vision** | `PyTorch`, `TensorFlow`, `SkLearn`, `Computer Vision (CV)`<br> |
-| **Web & Frameworks** | `FastAPI`, `Next.js`, `Django`, `HTML/CSS`, `Tkinter`<br> |
-| **Databases** | `FAISS`, `Pinecone` (Vector DBs), `MySQL`, `Supabase`<br> |
+| **AI/ML & Vision** | `PyTorch`, `TensorFlow`, `SkLearn`, `Computer Vision (CV)`, `Sentence Transformers`<br> |
+| **Web & Frameworks** | `FastAPI`, `Next.js`, `Django`, `Streamlit`, `LangChain`, `HTML/CSS`, `Tkinter`<br> |
+| **Databases** | `ChromaDB`, `FAISS`, `Pinecone` (Vector DBs), `MySQL`, `Supabase`<br> |
 | **Cloud & DevOps** | `Docker`, `Kubernetes (K8s)`, `Azure`, `Linux`, `Heroku`, `Basic DevOps`<br> |
-| **Tools & Design** | `Git`, `High-Level Design (HLD Basics)`<br> |
+| **Tools & Infrastructure** | `Git`, `FFmpeg`, `yt-dlp`, `pydub`, `High-Level Design (HLD Basics)`<br> |
 
 ---
 
