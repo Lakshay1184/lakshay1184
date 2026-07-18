@@ -1,132 +1,249 @@
-# 👋 Hi, I'm Lakshay Kapoor
+```md
+<h1 align="center">Hi 👋, I'm Lakshay Kapoor</h1>
 
-🚀 **AI/ML Engineer | Full-Stack Developer | Building Real-World AI Systems**
+<h3 align="center">
+AI/ML Engineer • Full-Stack Developer • Building Production-Ready AI Systems
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full-Stack+Developer;Computer+Vision+Enthusiast;Building+Production+AI+Applications;LLMs+%7C+RAG+%7C+Deep+Learning;Always+Learning+🚀" />
+</p>
 
-## ⚡ Who Am I
-
-I design and build **end-to-end intelligent systems** — from training deep learning models to deploying scalable APIs and crafting user-facing applications.
-
-* 🎓 **Education:** B.E. in Computer Science & Engineering (2023–2027) @ MM(DU)
-
-
-* 🤖 **Focus:** Multimodal AI, RAG Pipelines, Video Intelligence, & Scalable Backend Architectures
-
-
-* ⚙️ **Strong in:** PyTorch, FastAPI, Next.js, Vector Databases, & Cloud Infrastructure
-
-
-* 🧠 **Goal:** Build production-ready AI systems that solve complex, real-world problems
-
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lakshay1184&label=Profile+Views&color=7B68EE&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🏆 Highlight Project
+# 🚀 About Me
 
-### 🛡️ Truth-X — Multimodal AI & Deepfake Detection Web App
+I'm a Computer Science Engineering student passionate about building **production-grade AI applications** that bridge the gap between cutting-edge research and real-world deployment.
 
-> A comprehensive multimodal forensics and factual verification platform designed to combat misinformation and verify content authenticity.
-
-**Tech Stack:** Python • PyTorch • VideoMAE • DeBERTa-v3 • FAISS • FastAPI • Next.js
-
-✨ **What makes it powerful:**
-
-* **Video Forensics:** Utilizes VideoMAE to detect frame-level facial anomalies and temporal deepfake artifacts across video content.
-
-
-* **Text Authenticity:** Features an AI text classifier powered by DeBERTa-v3 and stylometric analysis to accurately distinguish human writing from synthetic LLM outputs.
-
-
-* **Real-Time Verification:** Integrates a factual verification pipeline leveraging FAISS vector indexing to cross-reference claims against live news cycles.
-
-
+- 🎓 **B.E. Computer Science & Engineering (2023–2027)** — MM(DU)
+- 🤖 Interested in **Generative AI, LLMs, RAG, Computer Vision & Video Intelligence**
+- ⚡ Experienced in developing **end-to-end AI products**
+- 💡 Love transforming research ideas into scalable software
+- 🌱 Currently exploring **Kubernetes, Distributed AI Systems & Agentic AI**
 
 ---
 
-## 🔥 Other Projects
+# 🛠 Tech Stack
 
-### 🎙️ AI Video Assistant — Self-Hosted Meeting Intelligence Platform
+<p align="center">
 
-> A free, self-hosted alternative to paid meeting intelligence tools like Otter and Fireflies that converts video/audio into structured insights and searchable RAG context.
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,django,nextjs,react,linux,docker,kubernetes,git,mysql,azure,vscode&perline=8"/>
 
-* **Tech Stack:** Python • LangChain • ChromaDB • Mistral AI • Whisper • Sarvam STT • Streamlit
-* **Intelligent Ingestion & Processing:** Accepts YouTube URLs or local media files, automates high-speed WAV audio conversion/chunking using `yt-dlp` and `FFmpeg`, and manages custom runtime data structures.
-* **Dual-Engine Transcription:** Employs OpenAI Whisper for local English transcription alongside the Sarvam STT API for accurate Hinglish translation-based processing.
-* **Core RAG & Analytics Pipeline:** Orchestrates Mistral AI via LangChain to extract titles, executive summaries, action items, and open questions, while persisting vector embeddings into a local ChromaDB instance to enable interactive transcript Q&A.
+</p>
 
----
+### AI / ML
 
-### 🎬 Auto Clip — Automated Video Editing Platform
+`PyTorch`
+`TensorFlow`
+`Scikit-Learn`
+`Computer Vision`
+`LLMs`
+`RAG`
+`Sentence Transformers`
+`Whisper`
+`LangChain`
 
-* **Tech Stack:** Python • Hugging Face • OpenAI Whisper • FFmpeg • FastAPI
+### Vector Databases
 
-
-* Engineered an AI tool that automatically identifies key highlights and extracts viral-ready clips from long-form video footage.
-
-
-* Integrated Transformers and speech-to-text models for seamless silent-gap removal and automated smart captioning.
-
-
-* Leveraged FFmpeg for high-speed video rendering and automated aspect-ratio conversion.
-
-
-
----
-
-### 🎥 Facial Recognition Attendance System
-
-* **Tech Stack:** Python • OpenCV • Haar Cascade • Dlib • Supabase • MySQL
-
-
-* Developed a smart attendance tracking system using Haar Cascade and LBPH algorithms for precise identity verification.
-
-
-* Created a dual-sided secure dashboard interface for Admins and Students to easily manage logs and view profiles.
-
-
-* Integrated database systems for real-time attendance logging, automatic status tracking, and report generation.
-
-
+- FAISS
+- Pinecone
+- ChromaDB
+- Supabase
 
 ---
 
-## 🧠 Tech Stack
+# ⭐ Featured Projects
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | `Python`, `C++`, `Java`<br> |
-| **AI/ML & Vision** | `PyTorch`, `TensorFlow`, `SkLearn`, `Computer Vision (CV)`, `Sentence Transformers`<br> |
-| **Web & Frameworks** | `FastAPI`, `Next.js`, `Django`, `Streamlit`, `LangChain`, `HTML/CSS`, `Tkinter`<br> |
-| **Databases** | `ChromaDB`, `FAISS`, `Pinecone` (Vector DBs), `MySQL`, `Supabase`<br> |
-| **Cloud & DevOps** | `Docker`, `Kubernetes (K8s)`, `Azure`, `Linux`, `Heroku`, `Basic DevOps`<br> |
-| **Tools & Infrastructure** | `Git`, `FFmpeg`, `yt-dlp`, `pydub`, `High-Level Design (HLD Basics)`<br> |
+## 🛡️ Truth-X — Multimodal Deepfake Detection Platform
 
----
+> Production-ready multimodal AI platform for detecting manipulated media and verifying factual claims.
 
-## 📊 What I Bring
+### Features
 
-✔ **Full-Stack AI Engineering:** Capability to bridge the gap between heavy deep learning models and modern, responsive frontends.
-✔ **Robust Backend Architecture:** Heavy focus on building optimized data pipelines, microservices, and high-performance APIs.
-✔ **Production-Minded Development:** Active application of containerization, orchestration, and clean code practices.
-✔ **Core Interests:** Deeply passionate about Generative AI, RAG Pipelines, Prompt Engineering, and UI/UX Designing.
+- 🎥 Video Deepfake Detection using **VideoMAE**
+- 📝 AI Text Detection using **DeBERTa-v3**
+- 🔎 Real-Time Fact Verification
+- 📚 Vector Search with **FAISS**
+- ⚡ FastAPI Backend
+- 🌐 Next.js Frontend
 
----
+**Tech**
 
-## 📫 Let's Connect
-
-* **GitHub:** [github.com/Lakshay1184](https://www.google.com/search?q=https://github.com/Lakshay1184)
-
-* **LinkedIn:** [linkedin.com/in/lakshay-kapoor-876921355](https://www.google.com/search?q=https://www.linkedin.com/in/lakshay-kapoor-876921355)
-
-* **Email:** [lakshaykapoor1184@gmail.com](https://www.google.com/search?q=mailto%3Alakshaykapoor1184%40gmail.com)
-
+`Python`
+`PyTorch`
+`VideoMAE`
+`FAISS`
+`FastAPI`
+`Next.js`
 
 ---
 
-## ⚡ Philosophy
+## 🎙 AI Video Assistant
 
-> "AI is not just about training models — it's about building secure, scalable systems that actually work in the real world."
-> 
->
+Self-hosted meeting intelligence platform capable of
+
+- YouTube & Local Uploads
+- Whisper + Sarvam STT
+- Automatic Summaries
+- Action Items
+- Semantic Search
+- RAG Chat
+
+**Tech**
+
+`LangChain`
+`Mistral AI`
+`ChromaDB`
+`Whisper`
+`FFmpeg`
+
+---
+
+## 🎬 Auto Clip
+
+AI-powered video editor that automatically creates viral-ready short clips.
+
+Features
+
+- Smart Highlight Detection
+- Subtitle Generation
+- Silent Gap Removal
+- FFmpeg Rendering
+- Aspect Ratio Conversion
+
+---
+
+## 🎥 Facial Recognition Attendance System
+
+Features
+
+- Face Recognition
+- Attendance Tracking
+- Admin Dashboard
+- Student Dashboard
+- Live Database Logging
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lakshay1184&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay1184&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lakshay1184&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay1184&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lakshay1184&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshay1184&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshay1184&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshay1184&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🧠 Large Language Models
+- 🤖 Agentic AI Systems
+- 📄 Retrieval-Augmented Generation
+- 🎥 Video Intelligence
+- ☁ Azure Cloud
+- 🐳 Docker & Kubernetes
+- ⚡ High Performance APIs
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Lakshay1184">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/lakshay-kapoor-876921355">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lakshaykapoor1184@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Building AI isn't just about training models — it's about engineering intelligent systems that people can trust."**
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+
+🚀 Happy Coding!
+
+</p>
+```
