@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Lakshay Kapoor</h1>
 
 <h3 align="center">
@@ -10,7 +9,7 @@ AI/ML Engineer • Full-Stack Developer • Building Production-Ready AI Systems
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lakshay1184&label=Profile+Views&color=7B68EE&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Lakshay1184&label=Profile%20Views&color=7B68EE&style=for-the-badge"/>
 </p>
 
 ---
@@ -20,123 +19,80 @@ AI/ML Engineer • Full-Stack Developer • Building Production-Ready AI Systems
 I'm a Computer Science Engineering student passionate about building **production-grade AI applications** that bridge the gap between cutting-edge research and real-world deployment.
 
 - 🎓 **B.E. Computer Science & Engineering (2023–2027)** — MM(DU)
-- 🤖 Interested in **Generative AI, LLMs, RAG, Computer Vision & Video Intelligence**
-- ⚡ Experienced in developing **end-to-end AI products**
-- 💡 Love transforming research ideas into scalable software
-- 🌱 Currently exploring **Kubernetes, Distributed AI Systems & Agentic AI**
+- 🤖 Passionate about **Generative AI, LLMs, Computer Vision, Video Intelligence & RAG**
+- ⚡ Experienced in developing **production-ready AI applications**
+- 🌱 Currently learning **Agentic AI, Kubernetes & Distributed Systems**
+- 💬 Ask me about **PyTorch, FastAPI, LangChain, RAG, Computer Vision**
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,django,nextjs,react,linux,docker,kubernetes,git,mysql,azure,vscode&perline=8"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,nextjs,react,django,docker,kubernetes,linux,git,mysql,azure,vscode&perline=8"/>
 </p>
 
-### AI / ML
+### AI & Machine Learning
 
-`PyTorch`
-`TensorFlow`
-`Scikit-Learn`
-`Computer Vision`
-`LLMs`
-`RAG`
-`Sentence Transformers`
-`Whisper`
-`LangChain`
+`PyTorch` • `TensorFlow` • `Scikit-Learn` • `OpenCV` • `Computer Vision` • `LLMs` • `LangChain` • `RAG`
 
-### Vector Databases
+### Databases
 
-- FAISS
-- Pinecone
-- ChromaDB
-- Supabase
+`FAISS` • `Pinecone` • `ChromaDB` • `Supabase` • `MySQL`
 
 ---
 
 # ⭐ Featured Projects
 
-## 🛡️ Truth-X — Multimodal Deepfake Detection Platform
+## 🛡️ Truth-X — Multimodal Deepfake Detection
 
-> Production-ready multimodal AI platform for detecting manipulated media and verifying factual claims.
+Production-ready AI platform capable of:
 
-### Features
-
-- 🎥 Video Deepfake Detection using **VideoMAE**
-- 📝 AI Text Detection using **DeBERTa-v3**
+- 🎥 Video Deepfake Detection (VideoMAE)
+- 📝 AI Text Detection (DeBERTa-v3)
 - 🔎 Real-Time Fact Verification
-- 📚 Vector Search with **FAISS**
+- 📚 FAISS Vector Search
 - ⚡ FastAPI Backend
 - 🌐 Next.js Frontend
-
-**Tech**
-
-`Python`
-`PyTorch`
-`VideoMAE`
-`FAISS`
-`FastAPI`
-`Next.js`
 
 ---
 
 ## 🎙 AI Video Assistant
 
-Self-hosted meeting intelligence platform capable of
-
-- YouTube & Local Uploads
+- YouTube & Local File Support
 - Whisper + Sarvam STT
-- Automatic Summaries
-- Action Items
-- Semantic Search
-- RAG Chat
-
-**Tech**
-
-`LangChain`
-`Mistral AI`
-`ChromaDB`
-`Whisper`
-`FFmpeg`
+- Automatic Meeting Summaries
+- RAG-based Chat
+- ChromaDB Knowledge Base
 
 ---
 
 ## 🎬 Auto Clip
 
-AI-powered video editor that automatically creates viral-ready short clips.
-
-Features
-
-- Smart Highlight Detection
+- AI Highlight Detection
 - Subtitle Generation
-- Silent Gap Removal
+- Smart Silence Removal
 - FFmpeg Rendering
-- Aspect Ratio Conversion
+- Social Media Auto Formatting
 
 ---
 
 ## 🎥 Facial Recognition Attendance System
 
-Features
-
 - Face Recognition
-- Attendance Tracking
+- Attendance Logging
 - Admin Dashboard
 - Student Dashboard
-- Live Database Logging
+- Database Integration
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshay1184&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lakshay1184&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay1184&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay1184&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -144,9 +100,7 @@ Features
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Lakshay1184&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -154,19 +108,7 @@ Features
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay1184&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -174,9 +116,7 @@ Features
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Lakshay1184&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
 </p>
 
 ---
@@ -184,30 +124,27 @@ Features
 # 📊 Profile Summary
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshay1184&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshay1184&theme=tokyonight"/>
+</p>
 
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshay1184&theme=tokyonight"/>
-
 </p>
 
 ---
 
 # 🎯 Current Focus
 
+- 🤖 Agentic AI
 - 🧠 Large Language Models
-- 🤖 Agentic AI Systems
-- 📄 Retrieval-Augmented Generation
+- 📄 Advanced RAG Systems
 - 🎥 Video Intelligence
 - ☁ Azure Cloud
 - 🐳 Docker & Kubernetes
-- ⚡ High Performance APIs
 
 ---
 
@@ -216,24 +153,24 @@ Features
 <p align="center">
 
 <a href="https://github.com/Lakshay1184">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/lakshay-kapoor-876921355">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:lakshaykapoor1184@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Quote
+# 💭 Philosophy
 
-> **"Building AI isn't just about training models — it's about engineering intelligent systems that people can trust."**
+> *"Building AI isn't just about training models—it's about engineering intelligent systems that people can trust."*
 
 ---
 
@@ -242,8 +179,5 @@ Features
 </h3>
 
 <p align="center">
-
 🚀 Happy Coding!
-
 </p>
-```
