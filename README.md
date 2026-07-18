@@ -97,13 +97,7 @@ A free, self-hosted alternative to Otter/Fireflies that converts video/audio int
 - Dual-sided secure dashboard for Admins and Students
 - Real-time attendance logging, status tracking, and report generation
 
-</td>
-<td width="50%" valign="top">
 
-### 💡 Want your next project here?
-
-Ship something, then swap this card out — a four-project grid with one flagship
-above reads strongest. Keep this slot rotating with your most recent build.
 
 </td>
 </tr>
