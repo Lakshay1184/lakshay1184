@@ -571,16 +571,6 @@ Built production-oriented Machine Learning, Deep Learning and Generative AI syst
 
 ---
 
-# 📜 Certifications
-
-| Provider | Certification |
-|-----------|---------------|
-| Celebal Technologies | Data Science Internship |
-| Microsoft Learn | *(Add if available)* |
-| Azure | *(Add if available)* |
-| Coursera | *(Add if available)* |
-| NPTEL | *(Add if available)* |
-
 ---
 
 <div align="center">
