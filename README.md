@@ -1,41 +1,31 @@
-<!-- ===================================================== -->
-<!--                    PREMIUM HEADER                     -->
-<!-- ===================================================== -->
+<!-- ============================================================= -->
+<!--                           HEADER                              -->
+<!-- ============================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:4F46E5,20:6D28D9,45:7C3AED,70:6366F1,100:312E81&text=Lakshay%20Kapoor&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:312E81,40:4F46E5,70:7C3AED,100:9333EA&text=Lakshay%20Kapoor&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Engineer%20•%20LLM%20Engineer%20•%20Computer%20Vision&descAlignY=61&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Multimodal+AI+Developer;Computer+Vision+Engineer;RAG+Pipeline+Architect;FastAPI+%7C+PyTorch+%7C+Next.js;Turning+Research+Into+Production"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AI+Systems+Engineer;Building+Production+LLMs;Advanced+RAG+Architectures;Computer+Vision+Engineer;PyTorch+%7C+FastAPI+%7C+React;Turning+Research+Into+Scalable+Products"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Lakshay1184&style=for-the-badge&color=7C3AED"/>
 
 <img src="https://img.shields.io/github/followers/Lakshay1184?style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/stars/Lakshay1184?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.E.-Computer%20Science-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MM(DU)-2023--2027-4338CA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Location-Haryana,%20India-312E81?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20To-AI%20Internships%20%26%20Research-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Lakshay1184?style=for-the-badge&color=7C3AED"/>
 
 <br><br>
 
 <a href="mailto:lakshaykapoor1184@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/lakshay-kapoor-876921355">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Lakshay1184">
@@ -48,70 +38,76 @@
 
 # 👋 About Me
 
-I'm **Lakshay Kapoor**, an AI Engineer passionate about transforming machine learning research into production-ready applications.
+I'm **Lakshay Kapoor**, an **AI Systems Engineer** passionate about designing intelligent software that combines cutting-edge machine learning with scalable software engineering.
 
-Unlike traditional ML projects that stop at model training, I enjoy building complete AI products—from designing deep learning architectures and retrieval pipelines to deploying scalable APIs and creating intuitive user experiences.
+Instead of building isolated ML models, I enjoy engineering complete AI systems—from training transformer architectures and developing multimodal inference pipelines to designing backend infrastructure and deploying production-ready applications.
 
-My primary interests lie at the intersection of **Multimodal AI**, **Computer Vision**, **Large Language Models**, and **Backend Engineering**, where I focus on creating intelligent systems capable of solving real-world problems with reliability, scalability, and performance.
+My current work focuses on:
 
-I believe modern AI engineering isn't just about achieving high model accuracy—it's about building software that people can actually use.
+- 🧠 Custom LLM Development
+- 🤖 Advanced Retrieval-Augmented Generation
+- 👁 Computer Vision & Video Intelligence
+- ⚡ FastAPI Backend Engineering
+- 🏗 AI Infrastructure
+- 🔍 Agentic AI using LangGraph
+
+During my internship at **Celebal Technologies**, I engineered production-oriented ML, DL and Generative AI workflows involving **PEFT**, **LoRA**, **Advanced RAG**, and **LangGraph**, while building **MiniGPT**, an **80M parameter Transformer model** from scratch in PyTorch with a React + TypeScript interface. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🚀 Open To
+# 🚀 Currently Open To
 
-- AI Engineering Internships
+- AI Engineering
 - Machine Learning Engineering
+- LLM Engineering
 - Computer Vision
 - Applied Generative AI
-- Full-Stack AI Development
-- Research Collaborations
-- Open Source Contributions
+- Backend Engineering
+- AI Infrastructure
+- Open Source Collaboration
 
 ---
 
-# 💡 Engineering Philosophy
+# 💭 Engineering Philosophy
 
-> *"The future belongs to engineers who can bridge cutting-edge AI research with scalable software engineering."*
+> **Train models. Engineer systems. Ship products.**
 
----
-
-# 🧠 Areas of Expertise
-
-| Domain | Focus |
-|---------|------|
-| 🤖 Artificial Intelligence | Production AI Systems |
-| 🧠 Deep Learning | PyTorch |
-| 👁 Computer Vision | Video Understanding |
-| 📹 Video Intelligence | VideoMAE |
-| 📝 NLP | Transformers |
-| 🔍 Retrieval | FAISS |
-| 📚 RAG | LangChain |
-| ⚡ Backend | FastAPI |
-| 🌐 Full Stack | Next.js |
-| 🐳 DevOps | Docker |
-| ☁ Cloud | Azure |
-| 📊 Databases | SQL + Vector DB |
+I believe the most impactful AI solutions emerge when machine learning research is combined with robust software engineering, scalable infrastructure, and thoughtful product design.
 
 ---
 
-# ⚙ Tech Stack
+# 🧩 Core Competencies
+
+| Area | Expertise |
+|------|-----------|
+| 🤖 AI Engineering | ⭐⭐⭐⭐⭐ |
+| 🧠 Transformer Models | ⭐⭐⭐⭐⭐ |
+| 📚 LLM Development | ⭐⭐⭐⭐⭐ |
+| 🔍 Advanced RAG | ⭐⭐⭐⭐⭐ |
+| 🛰 LangGraph Agents | ⭐⭐⭐⭐⭐ |
+| 👁 Computer Vision | ⭐⭐⭐⭐⭐ |
+| 🎥 Video Intelligence | ⭐⭐⭐⭐⭐ |
+| ⚡ Backend Systems | ⭐⭐⭐⭐⭐ |
+| 🌐 Full Stack AI | ⭐⭐⭐⭐☆ |
+| ☁ AI Infrastructure | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🛠 Tech Stack
 
 ## Languages
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
 </p>
 
 ---
 
-## AI / Machine Learning
+## Machine Learning
 
 <p>
 
@@ -119,20 +115,29 @@ I believe modern AI engineering isn't just about achieving high model accuracy�
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
 </p>
 
 **Libraries**
 
 - PyTorch
 - TensorFlow
-- Scikit-learn
-- Sentence Transformers
-- HuggingFace Transformers
-- VideoMAE
-- DeBERTa-v3
+- Hugging Face Transformers
+- Scikit-Learn
 - OpenCV
+- SciPy
+
+---
+
+## LLM Engineering
+
+- Decoder-only Transformers
+- PEFT
+- LoRA
+- LangChain
+- LangGraph
+- SentencePiece
+- Advanced RAG
+- Prompt Engineering
 
 ---
 
@@ -144,8 +149,6 @@ I believe modern AI engineering isn't just about achieving high model accuracy�
 
 <img src="https://skillicons.dev/icons?i=django"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
 </p>
 
 ---
@@ -154,9 +157,11 @@ I believe modern AI engineering isn't just about achieving high model accuracy�
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
 <img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
@@ -172,19 +177,19 @@ I believe modern AI engineering isn't just about achieving high model accuracy�
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=supabase"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
 </p>
 
-**Vector Databases**
+### Vector Databases
 
 - FAISS
-- Pinecone
 - ChromaDB
+- Supabase (PostgreSQL)
 
 ---
 
-## Cloud & DevOps
+## Infrastructure
 
 <p>
 
@@ -202,278 +207,262 @@ I believe modern AI engineering isn't just about achieving high model accuracy�
 
 ---
 
-## Tools
+## Developer Tools
 
 - FFmpeg
-- yt-dlp
-- pydub
-- LangChain
 - Whisper
-- Sarvam STT
 - Mistral AI
+- Tavily API
 - GitHub Actions
 
 ---
 
-# 📊 AI / ML Expertise
+# 📈 AI Expertise
 
-| Domain | Proficiency | Details |
-|----------|------------|---------|
-| Computer Vision | ⭐⭐⭐⭐⭐ | VideoMAE, OpenCV, Deepfake Detection |
-| Deep Learning | ⭐⭐⭐⭐⭐ | PyTorch, Transfer Learning |
-| NLP | ⭐⭐⭐⭐☆ | DeBERTa, Transformers |
-| Retrieval-Augmented Generation | ⭐⭐⭐⭐⭐ | LangChain, ChromaDB, FAISS |
-| Backend Engineering | ⭐⭐⭐⭐⭐ | FastAPI, REST APIs |
-| Full Stack Development | ⭐⭐⭐⭐☆ | Next.js, React |
-| Vector Databases | ⭐⭐⭐⭐⭐ | Pinecone, FAISS, ChromaDB |
-| LLM Applications | ⭐⭐⭐⭐⭐ | Prompt Engineering, Agents |
-| API Integration | ⭐⭐⭐⭐⭐ | Mistral, Sarvam, HuggingFace |
-| DevOps | ⭐⭐⭐⭐☆ | Docker, Azure |
+| Domain | Technologies | Experience |
+|---------|--------------|------------|
+| Large Language Models | PyTorch, Transformers | ⭐⭐⭐⭐⭐ |
+| Custom GPT Development | Decoder-only Transformers | ⭐⭐⭐⭐⭐ |
+| Retrieval-Augmented Generation | LangChain, LangGraph, ChromaDB | ⭐⭐⭐⭐⭐ |
+| Computer Vision | OpenCV, VideoMAE | ⭐⭐⭐⭐⭐ |
+| Deepfake Detection | VideoMAE, FFT Analysis | ⭐⭐⭐⭐⭐ |
+| Speech AI | Whisper, Sarvam STT | ⭐⭐⭐⭐☆ |
+| Backend APIs | FastAPI | ⭐⭐⭐⭐⭐ |
+| Frontend | React + TypeScript | ⭐⭐⭐⭐☆ |
+| Vector Search | FAISS, ChromaDB | ⭐⭐⭐⭐⭐ |
+| Infrastructure | Docker, Kubernetes | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🏗 AI Engineering Workflow
+
+```text
+Research Idea
+      │
+      ▼
+Data Collection
+      │
+      ▼
+Model Training (PyTorch)
+      │
+      ▼
+Evaluation
+      │
+      ▼
+Optimization
+      │
+      ▼
+FastAPI Backend
+      │
+      ▼
+React Frontend
+      │
+      ▼
+Docker Deployment
+      │
+      ▼
+Production
+```
 
 ---
 
 <div align="center">
 
-### 🚀 *Building AI Systems That Scale Beyond Notebooks.*
+### 🚀 Building AI Infrastructure, not just AI Models.
 
 </div>
 
 ---
+
+```
+
+## End of Part 1
+
+The next part is where your profile becomes unique:
+
+- ⭐ Truth-X (completely redesigned)
+- 🧠 MiniGPT (flagship project)
+- 🎙 AI Video Assistant
+- 🎬 Auto Clip
+- Experience
+- Achievements
+- Mermaid architecture diagrams
+- Repository & demo buttons
+
+This is the strongest part of the README and will be much more detailed than the version we created earlier.
 # 🚀 Featured Projects
 
----
-
 <details open>
-<summary>
-
-# 🛡️ Truth-X — Multimodal AI Forensics & Deepfake Detection Platform
-
-### *Production-ready AI platform for detecting synthetic media and verifying digital content authenticity.*
-
-</summary>
+<summary><b>🛡️ Truth-X — Misinformation Intelligence & Forensic Analysis Platform</b></summary>
 
 <br>
 
-## 📖 Overview
+> **Production-grade multimodal AI platform for deepfake detection, misinformation analysis, and evidence-backed credibility verification.**
 
-Truth-X is an end-to-end multimodal AI platform designed to combat digital misinformation by analyzing **video, text, and factual claims** through a unified verification pipeline.
+### Architecture
 
-Unlike conventional AI demos that focus on a single modality, Truth-X combines **Computer Vision**, **Natural Language Processing**, **Retrieval-Augmented Generation (RAG)**, and **Vector Search** to deliver a comprehensive authenticity score for digital content.
+```mermaid
+flowchart LR
 
-The platform was engineered with a production mindset, featuring scalable APIs, optimized inference pipelines, and an intuitive web interface.
+A[Video / Audio / Text Input]
 
----
+A --> B(VideoMAE)
 
-## 🏗 System Architecture
+A --> C(DeBERTa-v3)
 
-| Layer | Technology |
-|---------|------------|
-| Frontend | Next.js |
-| Backend | FastAPI |
-| AI Framework | PyTorch |
-| Video Intelligence | VideoMAE |
-| NLP | DeBERTa-v3 |
-| Vector Search | FAISS |
-| Deployment | Docker |
-| Database | Supabase |
+A --> D(Whisper STT)
 
----
+D --> E(Tavily Search)
 
-## 🔥 Core Features
+E --> F(FAISS Retrieval)
 
-### 🎥 Video Deepfake Detection
+F --> G(Mistral AI)
 
-- Temporal facial anomaly detection
-- Frame-level artifact analysis
-- VideoMAE transformer backbone
-- Deepfake probability estimation
-- Confidence calibration
+B --> H
+C --> H
+G --> H
+
+H[Credibility Engine]
+
+H --> I(FastAPI)
+
+I --> J(Next.js Dashboard)
+```
 
 ---
 
-### 📝 AI Text Detection
+### System Overview
 
-- DeBERTa-v3 classifier
-- Stylometric feature extraction
-- Human vs AI probability scoring
-- LLM-generated content detection
+Truth-X combines modern Computer Vision, Natural Language Processing, Retrieval-Augmented Generation and OSINT verification into a single AI platform capable of detecting manipulated media while generating explainable credibility reports.
 
----
-
-### 🌍 Real-Time Fact Verification
-
-- FAISS vector indexing
-- Semantic similarity search
-- Evidence retrieval pipeline
-- Claim verification workflow
-- Retrieval-Augmented Generation
+Unlike conventional deepfake detectors, Truth-X verifies both the authenticity of media and the factual correctness of associated claims.
 
 ---
 
-### ⚡ Backend Engineering
+## Engineering Highlights
 
-- FastAPI REST architecture
-- Async request handling
-- Modular inference pipeline
-- API-first design
-- Optimized latency
-
----
-
-## 📈 Engineering Highlights
-
-✔ Modular AI pipeline
-
-✔ Production REST APIs
-
-✔ Vector similarity search
-
-✔ Multimodal inference
-
-✔ Explainable AI outputs
-
-✔ High-performance backend
-
-✔ Enterprise-ready architecture
+- VideoMAE temporal transformers
+- DeBERTa-v3 AI text detection
+- FFT Spectral Analysis
+- Whisper Speech-to-Text
+- Tavily OSINT Retrieval
+- FAISS Semantic Search
+- Mistral AI Reasoning
+- FastAPI Microservices
+- Next.js Dashboard
 
 ---
 
-## 📊 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
-|------------|-------------|
-| AI | PyTorch, VideoMAE, DeBERTa-v3 |
+|-----------|--------------|
+| Vision | VideoMAE, OpenCV |
+| NLP | DeBERTa-v3 |
+| Speech | Whisper |
+| Retrieval | Tavily API, FAISS |
+| LLM | Mistral AI |
 | Backend | FastAPI |
 | Frontend | Next.js |
-| Database | Supabase |
-| Retrieval | FAISS |
 | Deployment | Docker |
 
 ---
 
-## 🎯 Impact
+## Key Features
 
-- Unified multimodal AI workflow
-- Faster verification pipeline
-- Improved content authenticity assessment
-- Production-focused architecture
-- Easily extensible for future AI models
+✅ Deepfake Detection
+
+✅ AI Generated Text Detection
+
+✅ Speech Transcription
+
+✅ Claim Verification
+
+✅ Evidence Retrieval
+
+✅ Credibility Reports
+
+✅ Explainable AI
 
 ---
 
-### ⭐ Repository
+### Repository
 
-```text
-🔗 Add Repository Link Here
-```
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY)
 
 </details>
 
 ---
 
-<details>
+<details open>
 
-<summary>
-
-# 🎙 AI Video Assistant — Self Hosted Meeting Intelligence Platform
-
-### *Open-source alternative to Otter AI & Fireflies.*
-
-</summary>
+<summary><b>🧠 MiniGPT — Custom Decoder-Only Language Model</b></summary>
 
 <br>
 
-## 📖 Overview
+> **An 80M parameter GPT-style language model implemented completely from scratch using PyTorch.**
 
-AI Video Assistant transforms long-form meetings into searchable knowledge.
+### Architecture
 
-The platform automatically extracts transcripts, summaries, action items, key decisions, and enables Retrieval-Augmented Question Answering over the meeting content.
+```mermaid
+flowchart LR
 
----
+A[SentencePiece Tokenizer]
 
-## 🚀 Features
+A --> B(Embedding Layer)
 
-- YouTube ingestion
-- Local media upload
-- Whisper transcription
-- Hinglish transcription (Sarvam)
-- LangChain orchestration
-- ChromaDB vector storage
-- Mistral summarization
-- Interactive Q&A
-- Executive summaries
-- Action item extraction
+B --> C(RoPE)
 
----
+C --> D(Transformer Blocks)
 
-## 🏗 Architecture
+D --> E(SwiGLU)
 
-| Layer | Technology |
-|---------|------------|
-| Interface | Streamlit |
-| LLM | Mistral AI |
-| Framework | LangChain |
-| Vector DB | ChromaDB |
-| STT | Whisper + Sarvam |
-| Media | FFmpeg + yt-dlp |
+E --> F(Output Projection)
+
+F --> G(FastAPI)
+
+G --> H(React + TypeScript UI)
+```
 
 ---
 
-## Pipeline
+## Overview
 
-Media
+MiniGPT demonstrates an end-to-end implementation of a decoder-only Transformer architecture without relying on pretrained weights.
 
-↓
-
-Audio Extraction
-
-↓
-
-Speech Recognition
-
-↓
-
-Chunking
-
-↓
-
-Embedding Generation
-
-↓
-
-ChromaDB Storage
-
-↓
-
-LLM Processing
-
-↓
-
-Summary + Action Items + Q&A
+The project includes tokenizer training, transformer implementation, curriculum training, inference optimization, and deployment through a React frontend.
 
 ---
 
 ## Highlights
 
-✔ Fully self-hosted
-
-✔ Multilingual
-
-✔ RAG-powered
-
-✔ Meeting intelligence
-
-✔ Semantic search
-
-✔ Fast ingestion
+- 80M Parameters
+- Decoder-only Transformer
+- RoPE Positional Embeddings
+- SwiGLU Feed Forward
+- SentencePiece Tokenizer
+- WikiText-103 Pretraining
+- Dolly/OASST Fine-tuning
+- FastAPI Inference Server
+- React + TypeScript Chat UI
 
 ---
 
-Repository
+## Tech Stack
 
-```text
-🔗 Add Repository Link
-```
+| Category | Technologies |
+|-----------|--------------|
+| Deep Learning | PyTorch |
+| Tokenizer | SentencePiece |
+| Frontend | React, TypeScript |
+| Backend | FastAPI |
+| Training | WikiText-103, Dolly, OASST |
+
+---
+
+### Repository
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY)
 
 </details>
 
@@ -481,34 +470,102 @@ Repository
 
 <details>
 
-<summary>
-
-# 🎬 Auto Clip — Automated AI Video Editing Platform
-
-</summary>
+<summary><b>🎙 AI Video Assistant — Meeting Intelligence Platform</b></summary>
 
 <br>
 
-## Overview
+> **Self-hosted meeting intelligence platform powered by Whisper, ChromaDB and Mistral AI.**
 
-An AI-powered editing platform capable of automatically identifying high-engagement moments from long-form videos and converting them into social-media-ready short clips.
+### Pipeline
+
+```mermaid
+flowchart LR
+
+A[YouTube / Media]
+
+A --> B(Whisper)
+
+B --> C(Sarvam STT)
+
+C --> D(Text Chunks)
+
+D --> E(Embeddings)
+
+E --> F(ChromaDB)
+
+F --> G(Mistral AI)
+
+G --> H(React Interface)
+```
 
 ---
 
-### Features
+## Features
 
-- Highlight detection
-- Speech analysis
-- Whisper transcription
-- Smart captions
-- Silence removal
-- FFmpeg rendering
-- Vertical video generation
-- Aspect ratio conversion
+- YouTube Ingestion
+- Local File Upload
+- Whisper Transcription
+- Hinglish Support
+- LangChain Orchestration
+- ChromaDB Vector Search
+- Mistral Summaries
+- Action Item Extraction
+- Interactive Chat
+- Executive Summaries
 
 ---
 
-### Tech Stack
+## Tech Stack
+
+Python
+
+FastAPI
+
+React
+
+Whisper
+
+LangChain
+
+Mistral AI
+
+ChromaDB
+
+Sarvam STT
+
+---
+
+### Repository
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🎬 Auto Clip — Automated Video Editing Platform</b></summary>
+
+<br>
+
+> **AI-powered platform that converts long-form videos into viral-ready short clips automatically.**
+
+---
+
+## Features
+
+- Semantic Highlight Detection
+- Whisper Speech Recognition
+- Smart Captions
+- Subtitle Synchronization
+- Silent Gap Removal
+- Dynamic Aspect Ratio Conversion
+- FFmpeg Rendering Pipeline
+
+---
+
+## Tech Stack
 
 Python
 
@@ -516,97 +573,15 @@ FastAPI
 
 Transformers
 
-OpenAI Whisper
+Whisper
 
 FFmpeg
 
 ---
 
-### Engineering Highlights
+### Repository
 
-✔ Automated editing workflow
-
-✔ High-speed rendering
-
-✔ Modular architecture
-
-✔ Caption generation
-
-✔ Batch processing
-
----
-
-Repository
-
-```text
-🔗 Add Repository Link
-```
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🎥 Facial Recognition Attendance System
-
-</summary>
-
-<br>
-
-## Overview
-
-A secure attendance management application using computer vision for automated identity verification and attendance tracking.
-
----
-
-## Features
-
-- Face detection
-- Face recognition
-- Attendance logging
-- Student dashboard
-- Admin dashboard
-- Attendance reports
-- Database integration
-
----
-
-## Stack
-
-OpenCV
-
-Python
-
-Dlib
-
-Supabase
-
-MySQL
-
----
-
-## Highlights
-
-✔ Secure authentication
-
-✔ Automated attendance
-
-✔ Real-time logging
-
-✔ Dashboard analytics
-
-✔ Database-backed
-
----
-
-Repository
-
-```text
-🔗 Add Repository Link
-```
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY)
 
 </details>
 
@@ -614,30 +589,35 @@ Repository
 
 # 💼 Experience
 
-## 🏢 Data Science Intern
+## Data Science Intern
 
 ### Celebal Technologies
 
-**Duration:** May 2026 – July 2026
+**May 2026 – July 2026**
+
+Built production-oriented Machine Learning, Deep Learning and Generative AI systems with emphasis on scalable AI infrastructure and transformer architectures.
 
 ### Responsibilities
 
-- Worked on Data Science assignments covering machine learning, statistics, and data analysis.
-- Applied Python, NumPy, Pandas, and Scikit-learn to practical datasets.
-- Strengthened understanding of model evaluation, feature engineering, and data preprocessing.
-- Collaborated within the Celebal Excellence Internship (CEI) program and completed hands-on learning modules.
+- Engineered ML, DL and GenAI workflows
+- Worked with PEFT and LoRA fine-tuning
+- Built Advanced RAG systems
+- Developed LangGraph-based AI agents
+- Designed MiniGPT (80M Transformer)
+- Built FastAPI inference services
+- Integrated React + TypeScript frontend
 
 ---
 
 # 🏆 Achievements
 
-| Achievement | Description |
-|-------------|-------------|
-| 🎓 CEI 2026 | Successfully completed Celebal Excellence Internship as a Data Science Intern |
-| 🤖 AI Projects | Built multiple end-to-end AI applications using PyTorch, FastAPI, and Next.js |
-| 🧠 RAG Systems | Developed production-style Retrieval-Augmented Generation pipelines |
-| 🎥 Computer Vision | Designed AI-powered deepfake detection and video intelligence solutions |
-| 🚀 Full-Stack AI | Delivered complete AI applications from model training to deployment |
+| Achievement | Details |
+|------------|---------|
+| 🧠 Custom LLM | Built an 80M parameter GPT-style Transformer |
+| 🚀 AI Systems | Developed multiple production-ready AI applications |
+| 🔍 RAG | Engineered Advanced Retrieval-Augmented Generation systems |
+| 👁 Computer Vision | Built multimodal deepfake detection platform |
+| 💼 Internship | Completed Data Science Internship at Celebal Technologies |
 
 ---
 
@@ -645,66 +625,60 @@ Repository
 
 | Provider | Certification |
 |-----------|---------------|
-| Celebal Technologies | Data Science Internship Completion |
+| Celebal Technologies | Data Science Internship |
 | Microsoft Learn | *(Add if available)* |
 | Azure | *(Add if available)* |
-| NPTEL | *(Add if available)* |
 | Coursera | *(Add if available)* |
+| NPTEL | *(Add if available)* |
+
+---
+
+<div align="center">
+
+### Building production-grade AI systems from research to deployment.
+
+</div>
 
 ---
 # 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/your_username">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/user/your_username">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/your_username">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.codechef.com/users/your_username">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
-</div>
-
-> **Replace the links above with your actual profile URLs.**
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lakshay1184&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay1184&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lakshay1184&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lakshay1184&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Lakshay1184&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📊 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay1184&theme=tokyo-night&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay1184&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -714,7 +688,17 @@ Repository
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshay1184&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lakshay1184&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay1184&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </div>
 
@@ -724,98 +708,186 @@ Repository
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
 
 </div>
 
-> **Note:** You'll need to set up a GitHub Action to generate the snake animation automatically.
-
 ---
 
-# 📌 Current Focus
+# ⚙️ Current Focus
 
 ```yaml
+name: Lakshay Kapoor
+
+role:
+  - AI Systems Engineer
+  - LLM Engineer
+  - Computer Vision Engineer
+
 currently_building:
-  - Production-grade AI Applications
-  - Multimodal Deep Learning Systems
-  - Enterprise FastAPI Backends
+  - Truth-X v2
+  - MiniGPT
+  - AI Infrastructure
+  - Production RAG Systems
 
 currently_learning:
-  - LLM Fine-Tuning
-  - Agentic AI
-  - Distributed Model Serving
-  - Advanced Kubernetes
+  - Distributed LLM Training
+  - CUDA Optimization
+  - Quantization
+  - vLLM
+  - Tensor Parallelism
+  - Multi-Agent Systems
 
 currently_exploring:
   - Vision Language Models
   - AI Infrastructure
-  - MCP
-  - AI Agents
-  - High Performance Inference
+  - Model Context Protocol (MCP)
+  - Agentic AI
+  - Reinforcement Fine-Tuning
 
-interests:
-  - Computer Vision
-  - Retrieval-Augmented Generation
+research_interests:
+  - Large Language Models
+  - Multimodal AI
   - Video Intelligence
-  - Generative AI
-  - Open Source
+  - Advanced RAG
+  - AI Security
+  - AI Infrastructure
 
 open_to:
-  - AI/ML Internship
-  - Research Opportunities
-  - Open Source Collaboration
+  - AI Engineering Roles
+  - Research Internships
+  - Open Source
+  - Collaborations
 ```
 
 ---
 
-# 🌟 Engineering Principles
+# 📌 Engineering Principles
 
 ```text
-• Build products, not just models.
-• Optimize for scalability and maintainability.
-• Write clean, modular, production-ready code.
-• Measure impact with data, not assumptions.
-• Keep learning, keep shipping.
+• Build AI systems, not isolated models.
+
+• Design for scalability before optimization.
+
+• Clean architecture beats clever code.
+
+• Every model deserves a production pipeline.
+
+• Automate repetitive engineering work.
+
+• Ship fast, iterate faster.
+
+• Keep learning relentlessly.
 ```
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:lakshaykapoor1184@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://linkedin.com/in/lakshay-kapoor-876921355">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="https://github.com/Lakshay1184">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </div>
 
 ---
 
-# 📫 Contact
+# 📬 Contact
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | lakshaykapoor1184@gmail.com |
-| 💼 LinkedIn | https://linkedin.com/in/lakshay-kapoor-876921355 |
-| 💻 GitHub | https://github.com/Lakshay1184 |
+| 📧 Email | **lakshaykapoor1184@gmail.com** |
+| 💼 LinkedIn | **linkedin.com/in/lakshay-kapoor-876921355** |
+| 💻 GitHub | **github.com/Lakshay1184** |
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> **"Great AI isn't defined by benchmark scores—it's defined by the real-world systems engineers build around it."**
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ "Building intelligent systems that solve real-world problems through AI, software engineering, and scalable architecture."
+### ⭐ Thanks for visiting my profile!
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F172A,20:312E81,40:4F46E5,70:7C3AED,100:9333EA"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:312E81,30:4F46E5,60:7C3AED,100:6366F1"/>
+</div>
+
+---
+
+# ⚡ GitHub Snake Animation Workflow
+
+Create this file:
+
+```
+.github/workflows/snake.yml
+```
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Lakshay1184
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+<div align="center">
+
+### 🚀 Building AI Infrastructure • Engineering Intelligent Systems • Shipping Production-Ready Software
 
 </div>
