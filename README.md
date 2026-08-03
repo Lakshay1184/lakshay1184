@@ -234,8 +234,7 @@ I believe the most impactful AI solutions emerge when machine learning research 
 
 ---
 
-# 🏗 AI Engineering Workflow
-
+# 🏗 Truth X
 ```text
 Research Idea
       │
@@ -271,13 +270,6 @@ Production
 ### 🚀 Building AI Infrastructure, not just AI Models.
 
 </div>
-
----
-
-```
-
-
-```
 
 ---
 
