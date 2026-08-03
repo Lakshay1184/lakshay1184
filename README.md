@@ -276,57 +276,7 @@ Production
 
 ```
 
-## End of Part 1
 
-The next part is where your profile becomes unique:
-
-- ⭐ Truth-X (completely redesigned)
-- 🧠 MiniGPT (flagship project)
-- 🎙 AI Video Assistant
-- 🎬 Auto Clip
-- Experience
-- Achievements
-- Mermaid architecture diagrams
-- Repository & demo buttons
-
-This is the strongest part of the README and will be much more detailed than the version we created earlier.
-# 🚀 Featured Projects
-
-<details open>
-<summary><b>🛡️ Truth-X — Misinformation Intelligence & Forensic Analysis Platform</b></summary>
-
-<br>
-
-> **Production-grade multimodal AI platform for deepfake detection, misinformation analysis, and evidence-backed credibility verification.**
-
-### Architecture
-
-```mermaid
-flowchart LR
-
-A[Video / Audio / Text Input]
-
-A --> B(VideoMAE)
-
-A --> C(DeBERTa-v3)
-
-A --> D(Whisper STT)
-
-D --> E(Tavily Search)
-
-E --> F(FAISS Retrieval)
-
-F --> G(Mistral AI)
-
-B --> H
-C --> H
-G --> H
-
-H[Credibility Engine]
-
-H --> I(FastAPI)
-
-I --> J(Next.js Dashboard)
 ```
 
 ---
@@ -816,13 +766,7 @@ open_to:
 
 ---
 
-# 📬 Contact
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | **lakshaykapoor1184@gmail.com** |
-| 💼 LinkedIn | **linkedin.com/in/lakshay-kapoor-876921355** |
-| 💻 GitHub | **github.com/Lakshay1184** |
 
 ---
 
@@ -846,43 +790,7 @@ open_to:
 
 ---
 
-# ⚡ GitHub Snake Animation Workflow
 
-Create this file:
-
-```
-.github/workflows/snake.yml
-```
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Lakshay1184
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
