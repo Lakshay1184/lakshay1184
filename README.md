@@ -616,16 +616,6 @@ Built production-oriented Machine Learning, Deep Learning and Generative AI syst
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshay1184&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -634,23 +624,7 @@ Built production-oriented Machine Learning, Deep Learning and Generative AI syst
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake.svg">
-
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lakshay1184/Lakshay1184/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
 
 ---
 
